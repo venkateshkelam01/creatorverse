@@ -49,8 +49,7 @@ The following **optional** features are implemented:
 
 Here’s a walkthrough of the implemented required features:
 
-👉🏿 <img src="https://www.loom.com/share/930e11172e5b45d1adb2cc69dfd3cddd" title="Video Walkthrough" width="" alt="Video Walkthrough" />
-
+👉🏿 [Watch the Loom Walkthrough](https://www.loom.com/share/930e11172e5b45d1adb2cc69dfd3cddd)
 
 GIF created with 👉🏿 **[Loom]**
 
